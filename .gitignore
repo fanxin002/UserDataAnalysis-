@@ -1,0 +1,13 @@
+# 大数据文件（不上传GitHub）
+UserBehavior.csv
+UserBehavior_Clean.db
+RFM_User_Segments.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
